@@ -1,0 +1,62 @@
+/* Styles */
+body {
+	font-family: Verdana, sans-serif;
+}
+
+/* Header */
+h1 {
+    padding: 25px 0 0 0;
+    text-align: center;
+    color: #666;
+    font-size: 340%;
+}
+
+/* Content */
+h2 {
+    color: #f07c17;
+    font-size: 170%;
+    font-weight: 800;
+    padding: 0 0 0 5px;
+}
+
+img {
+    margin: 20px 0 0 0;
+    width: 375px;
+    height: 375px;
+}
+
+p {
+    padding: 20px 0 0 5px;
+    line-height: 30px;
+    font-size: medium;
+    font-weight: normal;
+}
+
+li {
+  font-size: medium;
+  font-weight: 400;
+  margin: 12px 0px 12px 30px;
+}
+
+.container {
+  width: 1024px;
+}
+
+/* left sidebar: the mug pic and the box features */
+.sidebar {
+  padding-left: 42px;
+  padding-right: 17px;
+}
+
+/* The box under the mug */
+.box-features {
+  border: solid 1px #ccc;
+  margin-top: 30px;
+  padding-bottom: 35px;
+  width: 375px;
+}
+
+.box-features-title {
+  padding: 10px 30px 20px 30px;
+  font-weight: 700;
+}
